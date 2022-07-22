@@ -37,6 +37,9 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 * Postgres
 * Django REST Framework
 
+Additional links
+* [Lorem ipsum texts](https://lipsum.com/)
+
 # Home Page
 <img src="./resources/images/Devsearch Home.jpg">  
 
